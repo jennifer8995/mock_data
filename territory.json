@@ -5,9 +5,9 @@
   "regions": null,
   "sites": null,
   "territories": null,
-  "nationalIds": null,
+  "nationalIds": ["CAFB","CAFG","CAKE",'CAPC"],
   "conceptIds": null,
   "accessible": true,
   "sellerId": "USBL",
-  "languageLocaleKey": "fr"
+  "languageLocaleKey": "en"
 }
