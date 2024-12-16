@@ -1,0 +1,466 @@
+{
+    "siteDetails": [
+        {
+            "siteNbr": "001",
+            "siteDesc": "JACKSON",
+            "region": "Gulf Coast",
+            "market": "South"
+        },
+        {
+            "siteNbr": "002",
+            "siteDesc": "ATLANTA",
+            "region": "South",
+            "market": "South"
+        },
+        {
+            "siteNbr": "003",
+            "siteDesc": "JACKSONVILLE",
+            "region": "North Florida",
+            "market": "South"
+        },
+        {
+            "siteNbr": "004",
+            "siteDesc": "CENTRAL CALIFORNIA",
+            "region": "Northern California",
+            "market": "West"
+        },
+        {
+            "siteNbr": "005",
+            "siteDesc": "INTERMOUNTAIN",
+            "region": "Northern Rockies",
+            "market": "West"
+        },
+        {
+            "siteNbr": "006",
+            "siteDesc": "NORTH TEXAS",
+            "region": "Mid South",
+            "market": "South"
+        },
+        {
+            "siteNbr": "007",
+            "siteDesc": "VIRGINIA",
+            "region": "Capital",
+            "market": "East"
+        },
+        {
+            "siteNbr": "008",
+            "siteDesc": "NORTHERN NEW ENGLAND",
+            "region": "Northeast",
+            "market": "East"
+        },
+        {
+            "siteNbr": "009",
+            "siteDesc": "PITTSBURGH",
+            "region": "Mid East",
+            "market": "East"
+        },
+        {
+            "siteNbr": "010",
+            "siteDesc": "EASTERN MARYLAND",
+            "region": "Eastern Shores",
+            "market": "East"
+        },
+        {
+            "siteNbr": "011",
+            "siteDesc": "LOUISVILLE",
+            "region": "Mid Central",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "012",
+            "siteDesc": "BALTIMORE",
+            "region": "Capital",
+            "market": "East"
+        },
+        {
+            "siteNbr": "013",
+            "siteDesc": "CENTRAL TEXAS",
+            "region": "South Texas",
+            "market": "South"
+        },
+        {
+            "siteNbr": "014",
+            "siteDesc": "MEMPHIS",
+            "region": "Tennessee",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "015",
+            "siteDesc": "CLEVELAND",
+            "region": "Mid East",
+            "market": "East"
+        },
+        {
+            "siteNbr": "016",
+            "siteDesc": "SOUTH FLORIDA",
+            "region": "South Florida",
+            "market": "South"
+        },
+        {
+            "siteNbr": "017",
+            "siteDesc": "LAS VEGAS",
+            "region": "Desert",
+            "market": "West"
+        },
+        {
+            "siteNbr": "018",
+            "siteDesc": "BARABOO",
+            "region": "Great Lakes",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "019",
+            "siteDesc": "CINCINNATI",
+            "region": "Mid Central",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "022",
+            "siteDesc": "CENTRAL FLORIDA",
+            "region": "North Florida",
+            "market": "South"
+        },
+        {
+            "siteNbr": "023",
+            "siteDesc": "NEW ORLEANS",
+            "region": "Gulf Coast",
+            "market": "South"
+        },
+        {
+            "siteNbr": "024",
+            "siteDesc": "CHICAGO",
+            "region": "Great Lakes",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "025",
+            "siteDesc": "ALBANY",
+            "region": "Northeast",
+            "market": "North"
+        },
+        {
+            "siteNbr": "026",
+            "siteDesc": "OKLAHOMA",
+            "region": "Mid South",
+            "market": "South"
+        },
+        {
+            "siteNbr": "027",
+            "siteDesc": "SYRACUSE",
+            "region": "Mid East",
+            "market": "North"
+        },
+        {
+            "siteNbr": "029",
+            "siteDesc": "ARKANSAS",
+            "region": "Mid South",
+            "market": "South"
+        },
+        {
+            "siteNbr": "031",
+            "siteDesc": "SACRAMENTO",
+            "region": "Northern California",
+            "market": "West"
+        },
+        {
+            "siteNbr": "032",
+            "siteDesc": "SOUTHEAST FLORIDA",
+            "region": "South Florida",
+            "market": "South"
+        },
+        {
+            "siteNbr": "035",
+            "siteDesc": "EASTERN WISCONSIN",
+            "region": "Great Lakes",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "036",
+            "siteDesc": "SAN DIEGO",
+            "region": "Southern California",
+            "market": "West"
+        },
+        {
+            "siteNbr": "037",
+            "siteDesc": "WEST COAST FLORIDA",
+            "region": "North Florida",
+            "market": "South"
+        },
+        {
+            "siteNbr": "038",
+            "siteDesc": "INDIANAPOLIS",
+            "region": "Mid Central",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "039",
+            "siteDesc": "IOWA",
+            "region": "Midwest",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "040",
+            "siteDesc": "IDAHO",
+            "region": "Northern Rockies",
+            "market": "West"
+        },
+        {
+            "siteNbr": "043",
+            "siteDesc": "MONTANA",
+            "region": "Northern Rockies",
+            "market": "West"
+        },
+        {
+            "siteNbr": "045",
+            "siteDesc": "LOS ANGELES",
+            "region": "Southern California",
+            "market": "West"
+        },
+        {
+            "siteNbr": "046",
+            "siteDesc": "CENTRAL ALABAMA",
+            "region": "South",
+            "market": "South"
+        },
+        {
+            "siteNbr": "047",
+            "siteDesc": "MINNESOTA",
+            "region": "North Central",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "048",
+            "siteDesc": "CHARLOTTE",
+            "region": "Carolinas",
+            "market": "South"
+        },
+        {
+            "siteNbr": "049",
+            "siteDesc": "ARIZONA",
+            "region": "Desert",
+            "market": "West"
+        },
+        {
+            "siteNbr": "050",
+            "siteDesc": "SAN FRANCISCO",
+            "region": "Northern California",
+            "market": "West"
+        },
+        {
+            "siteNbr": "051",
+            "siteDesc": "CENTRAL PENNSYLVANIA",
+            "region": "Pennsylvania",
+            "market": "East"
+        },
+        {
+            "siteNbr": "052",
+            "siteDesc": "PORTLAND",
+            "region": "Pacific Northwest",
+            "market": "West"
+        },
+        {
+            "siteNbr": "054",
+            "siteDesc": "CONNECTICUT",
+            "region": "NYC - Metro",
+            "market": "East"
+        },
+        {
+            "siteNbr": "055",
+            "siteDesc": "SEATTLE",
+            "region": "Pacific Northwest",
+            "market": "West"
+        },
+        {
+            "siteNbr": "056",
+            "siteDesc": "BOSTON",
+            "region": "Northeast",
+            "market": "East"
+        },
+        {
+            "siteNbr": "057",
+            "siteDesc": "KANSAS CITY.",
+            "region": "Central Plains",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "058",
+            "siteDesc": "DETROIT",
+            "region": "Michigan",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "059",
+            "siteDesc": "DENVER",
+            "region": "Southern Rockies",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "060",
+            "siteDesc": "NASHVILLE",
+            "region": "Tennessee",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "061",
+            "siteDesc": "LINCOLN",
+            "region": "Central Plains",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "064",
+            "siteDesc": "ST LOUIS",
+            "region": "Midwest",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "066",
+            "siteDesc": "NEW MEXICO",
+            "region": "Southern Rockies",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "067",
+            "siteDesc": "HOUSTON",
+            "region": "South Texas",
+            "market": "South"
+        },
+        {
+            "siteNbr": "068",
+            "siteDesc": "GRAND RAPIDS",
+            "region": "Michigan",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "073",
+            "siteDesc": "HAMPTON ROADS",
+            "region": "Eastern Shores",
+            "market": "East"
+        },
+        {
+            "siteNbr": "075",
+            "siteDesc": "PHILADELPHIA",
+            "region": "Pennsylvania",
+            "market": "East"
+        },
+        {
+            "siteNbr": "076",
+            "siteDesc": "METRO NEW YORK",
+            "region": "NYC - Metro",
+            "market": "East"
+        },
+        {
+            "siteNbr": "078",
+            "siteDesc": "WEST TEXAS",
+            "region": "Southern Rockies",
+            "market": "West"
+        },
+        {
+            "siteNbr": "101",
+            "siteDesc": "VENTURA",
+            "region": "Southern California",
+            "market": "West"
+        },
+        {
+            "siteNbr": "102",
+            "siteDesc": "SPOKANE",
+            "region": "Pacific Northwest",
+            "market": "West"
+        },
+        {
+            "siteNbr": "137",
+            "siteDesc": "COLUMBIA",
+            "region": "Carolinas",
+            "market": "South"
+        },
+        {
+            "siteNbr": "163",
+            "siteDesc": "RALEIGH",
+            "region": "Carolinas",
+            "market": "South"
+        },
+        {
+            "siteNbr": "164",
+            "siteDesc": "GULF COAST",
+            "region": "South",
+            "market": "South"
+        },
+        {
+            "siteNbr": "194",
+            "siteDesc": "CENTRAL ILLINOIS",
+            "region": "Midwest",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "195",
+            "siteDesc": "NORTH DAKOTA",
+            "region": "North Central",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "288",
+            "siteDesc": "KNOXVILLE",
+            "region": "Tennessee",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "293",
+            "siteDesc": "EAST TEXAS",
+            "region": "South Texas",
+            "market": "South"
+        },
+        {
+            "siteNbr": "306",
+            "siteDesc": "LONG ISLAND",
+            "region": "NYC - Metro",
+            "market": "East"
+        },
+        {
+            "siteNbr": "320",
+            "siteDesc": "RIVERSIDE",
+            "region": "Southern California",
+            "market": "West"
+        },
+        {
+            "siteNbr": "332",
+            "siteDesc": "WESTERN MINNESOTA",
+            "region": "North Central",
+            "market": "Central"
+        },
+        {
+            "siteNbr": "335",
+            "siteDesc": "BAHAMAS",
+            "region": "Bahamas",
+            "market": "South"
+        },
+        {
+            "siteNbr": "429",
+            "siteDesc": "DOERLE FOOD SERVICE",
+            "region": "Gulf Coast",
+            "market": "South"
+        },
+        {
+            "siteNbr": "450",
+            "siteDesc": "ALASKA",
+            "region": "Alaska",
+            "market": "West"
+        },
+        {
+            "siteNbr": "629",
+            "siteDesc": "ALLENTOWN",
+            "region": "Pennsylvania",
+            "market": "North"
+        },
+        {
+            "siteNbr": "653",
+            "siteDesc": "Tampa",
+            "region": "North Florida",
+            "market": "South"
+        },
+        {
+            "siteNbr": "654",
+            "siteDesc": "Arizona East",
+            "region": "Desert",
+            "market": "West"
+        }
+    ]
+}
