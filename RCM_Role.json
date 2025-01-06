@@ -5,7 +5,7 @@
     "regions": null,
     "sites": null,
     "territories": null,
-    "nationalIds": ['DVSC','CLBR'],
+    "nationalIds": ["DVSC","CLBR"],
     "conceptIds": null,
     "accessible": true,
     "sellerId": "USBL",
