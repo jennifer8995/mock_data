@@ -1,0 +1,13 @@
+{
+    "role": "RCM",
+    "market": null,
+    "region": null,
+    "regions": null,
+    "sites": null,
+    "territories": null,
+    "nationalIds": ['DVSC','CLBR'],
+    "conceptIds": null,
+    "accessible": true,
+    "sellerId": "USBL",
+    "languageLocaleKey": "en_US"
+}
