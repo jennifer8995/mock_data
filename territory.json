@@ -1,13 +1,13 @@
 {
-  "role": "RCM",
-  "market": null,
-  "region": null,
-  "regions": null,
-  "sites": null,
-  "territories": null,
-  "nationalIds": ["DVCS", "CLBR", "PJSB", "HNGS", "ROBK"],
-  "conceptIds": null,
-  "accessible": true,
-  "sellerId": "USBL",
-  "languageLocaleKey": "en"
+    "role": "Corp",
+    "market": null,
+    "region": null,
+    "regions": null,
+    "sites": null,
+    "territories": null,
+    "nationalIds": null,
+    "conceptIds": null,
+    "accessible": true,
+    "sellerId": "USBL",
+    "languageLocaleKey": "en_US"
 }
