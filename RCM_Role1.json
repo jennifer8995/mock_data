@@ -6,7 +6,7 @@
     "sites": null,
     "territories": null,
     "nationalIds": ["DVSC","CLBR"],
-    "conceptIds": null,
+    "conceptIds": ["DVSCDVSC","CLBRCLBR"],
     "accessible": true,
     "sellerId": "USBL",
     "languageLocaleKey": "en_US"
