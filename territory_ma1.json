@@ -46,11 +46,11 @@
     },
     {
       "terrId": "0MI8b0000011JAAGAU",
-      "terrName": "TOG27",
+      "terrName": "TESTD",
       "maName": null,
       "opcoId": "013",
       "type": "DISTRICT",
-      "siteIdAndTerrName": "013-TOG27"
+      "siteIdAndTerrName": "013-TESTD"
     },
     {
       "terrId": "0MI8b0000011JcAGAU",
