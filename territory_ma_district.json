@@ -1,0 +1,117 @@
+{
+    "role": "MA",
+    "market": "South",
+    "region": null,
+    "regions": [
+        "South Texas"
+    ],
+    "sites": [
+        {
+            "site_nbr": "293",
+            "site_desc": "EAST TEXAS"
+        },
+        {
+            "site_nbr": "013",
+            "site_desc": "CENTRAL TEXAS"
+        },
+        {
+            "site_nbr": "067",
+            "site_desc": "HOUSTON"
+        }
+    ],
+    "territories": [
+        {
+            "terrId": "0MI8b0000011JaKGAU",
+            "terrName": "D5EQ4",
+            "maName": null,
+            "opcoId": "013",
+            "type": "DISTRICT",
+            "siteIdAndTerrName": "013-D5EQ4"
+        },
+        {
+            "terrId": "0MI8b0000011JaKGAU",
+            "terrName": "D5EQ4",
+            "maName": null,
+            "opcoId": "067",
+            "type": "DISTRICT",
+            "siteIdAndTerrName": "067-D5EQ4"
+        },
+        {
+            "terrId": "0MI8b0000011JaKGAU",
+            "terrName": "D5EQ4",
+            "maName": null,
+            "opcoId": "293",
+            "type": "DISTRICT",
+            "siteIdAndTerrName": "293-D5EQ4"
+        },
+        {
+            "terrId": "0MI8b0000011JcAGAU",
+            "terrName": "TOG27",
+            "maName": null,
+            "opcoId": "013",
+            "type": "TERRITORY",
+            "siteIdAndTerrName": "013-TOG27"
+        },
+        {
+            "terrId": "0MI8b0000011JcAGAU",
+            "terrName": "TOG27",
+            "maName": null,
+            "opcoId": "067",
+            "type": "TERRITORY",
+            "siteIdAndTerrName": "067-TOG27"
+        },
+        {
+            "terrId": "0MI8b0000011JcAGAU",
+            "terrName": "TOG27",
+            "maName": null,
+            "opcoId": "293",
+            "type": "TERRITORY",
+            "siteIdAndTerrName": "293-TOG27"
+        },
+        {
+            "terrId": "0MI8b0000011JcGGAU",
+            "terrName": "TKA0Z",
+            "maName": null,
+            "opcoId": "013",
+            "type": "TERRITORY",
+            "siteIdAndTerrName": "013-TKA0Z"
+        },
+        {
+            "terrId": "0MI8b0000011JcGGAU",
+            "terrName": "TKA0Z",
+            "maName": null,
+            "opcoId": "067",
+            "type": "TERRITORY",
+            "siteIdAndTerrName": "067-TKA0Z"
+        },
+        {
+            "terrId": "0MI8b0000011JcGGAU",
+            "terrName": "TKA0Z",
+            "maName": null,
+            "opcoId": "293",
+            "type": "TERRITORY",
+            "siteIdAndTerrName": "293-TKA0Z"
+        },
+        {
+            "terrId": "0MI8b0000011JarGAE",
+            "terrName": "D84CL",
+            "maName": null,
+            "opcoId": "013",
+            "type": "DISTRICT",
+            "siteIdAndTerrName": "013-D84CL"
+        },
+        {
+            "terrId": "0MI8b0000011JarGAE",
+            "terrName": "D84CL",
+            "maName": null,
+            "opcoId": "067",
+            "type": "DISTRICT",
+            "siteIdAndTerrName": "067-D84CL"
+        }
+    ],
+    "nationalIds": null,
+    "conceptIds": null,
+    "accessible": true,
+    "sellerId": "USBL",
+    "languageLocaleKey": "en_US"
+}
